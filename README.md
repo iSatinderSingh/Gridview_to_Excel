@@ -1,4 +1,4 @@
-# Gridview_to_Excel
+# Gridview to Excel
 Sample Project code on how to export gridview data to Excel file in Asp.net C#.
 
 ####Methods for Export Data to Excel in asp.net C#
